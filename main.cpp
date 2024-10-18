@@ -3,8 +3,9 @@
 #include <ctime>
 
 using namespace std;
-
-int main() {
+ 
+int main() {  
+    
     // Seed the random number generator
     srand(static_cast<unsigned int>(time(0)));
 
